@@ -1,3 +1,5 @@
+[![UV](https://img.shields.io/badge/UV-Package%20Manager-blue)](https://github.com/astral-sh/uv)
+
 # UV -  Python Package Manager
 
 UV is a package manager and project management tool for Python, designed to solve long-standing dependency and project management issues that have historically been considered Python's weak points.
